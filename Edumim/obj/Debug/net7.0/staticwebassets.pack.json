@@ -1,0 +1,1545 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Edumim.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Edumim.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\css\\rt-plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\rt-plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Black.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-BlackItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-BlackItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-BlackItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-BoldItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-BoldItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ExtraBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ExtraBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ExtraBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ExtraBoldItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ExtraBoldItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ExtraBoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ExtraBoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Heavy.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Heavy.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Heavy.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Heavy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Heavy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Heavy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-HeavyItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-HeavyItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-HeavyItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-HeavyItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-HeavyItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-HeavyItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-LightItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-LightItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-LightItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-LightItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Medium - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Medium - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-MediumItalic - Copy.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-MediumItalic - Copy.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-MediumItalic - Copy.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-MediumItalic - Copy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-MediumItalic - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-MediumItalic - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-MediumItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-MediumItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-MediumItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Regular - Copy.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Regular - Copy.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Regular - Copy.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Regular - Copy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Regular - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Regular - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-RegularItalic - Copy.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-RegularItalic - Copy.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-RegularItalic - Copy.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-RegularItalic - Copy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-RegularItalic - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-RegularItalic - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-RegularItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-RegularItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-RegularItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-RegularItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-RegularItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-RegularItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBold - Copy.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBold - Copy.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBold - Copy.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBold - Copy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBold - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBold - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBoldItalic - Copy.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBoldItalic - Copy.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBoldItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBoldItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-SemiBoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-SemiBoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Thin - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Thin - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Thin.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Thin.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-Thin.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ThinItalic - Copy.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ThinItalic - Copy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ThinItalic - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ThinItalic - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ThinItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ThinItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-ThinItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-ThinItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLight - Copy.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLight - Copy.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLight - Copy.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLight - Copy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLight - Copy.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLight - Copy.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLight.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLight.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLight.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLight.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLightItalic.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLightItalic.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\Gilroy-UltraLightItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Gilroy-UltraLightItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\custom\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\custom\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\custom\\flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\custom\\flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\custom\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\custom\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\custom\\flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\custom\\flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\custom\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\custom\\flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\custom\\flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\custom\\flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\custom\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\custom\\flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\404-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\404-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\404.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\about1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\about1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\about2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\about2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\about3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\about3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\about4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\about4.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\about5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\about5.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\author-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\author-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\b-s-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\b-s-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\b-s-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\b-s-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\b-s-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\b-s-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\b-thub-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\b-thub-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\b-thub-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\b-thub-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\b-thumb-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\b-thumb-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\bb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\bb.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\bed.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\bed.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\bg-ins-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\bg-ins-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\bg-ins-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\bg-ins-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-10.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-11.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-5.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-6.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-7.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-8.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\blog-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\blog-9.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\5.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\b1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\b1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\b2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\b2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\b3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\b3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\b4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\b4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\brands\\b5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\brands\\b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\bred.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\bred.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c10.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c11.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c12.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c4.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c5.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c6.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c7.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c8.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\c9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\c9.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\cmnt-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\cmnt-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\cmnt-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\cmnt-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ctabg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ctabg.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e4.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e5.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e6.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e7.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e8.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\e9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\e9.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\faq.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\faq.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\footer-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\footer-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ins-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ins-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ins-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ins-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ins-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ins-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ins-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ins-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ins-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ins-5.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ins-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ins-6.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\insbg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\insbg.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\main-event.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\main-event.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\p1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\rc-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\rc-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\rc-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\rc-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\rc-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\rc-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-10.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-11.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-12.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-13.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-13.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-14.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-15.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-15.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-16.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-5.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-6.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-7.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-8.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\section-bg-9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\section-bg-9.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\single-course-thumb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\single-course-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\single-ins.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\single-ins.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\t1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\t1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team10.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team11.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team12.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team4.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team5.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team6.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team7.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team8.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\team9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\team9.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\testi-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\testi-left.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\thumb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\ux.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\ux.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\all-img\\video.png",
+      "PackagePath": "staticwebassets\\assets\\images\\all-img\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\banner\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\banner\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\banner\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\banner\\man1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\man1.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\banner\\man2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\man2.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\banner\\man3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\man3.png"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\banner\\shape.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\camera.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ck.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ck.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\clock.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\counter-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\counter-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\counter-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\counter-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\counter-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\counter-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\counter-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\counter-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ct1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ct1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ct2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ct2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ct3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ct3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ct4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ct4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ct5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ct5.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ct6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ct6.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\fb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\fb.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\file.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\file.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\file2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\file2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\h.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\h.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\headphone.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\headphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\ins.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\ins.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\laptop.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\like.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\like.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\lock.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\lock.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\mail.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\pencil.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\pencil.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\pn.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\pn.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t5.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t6.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t7.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t7.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\t8.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\t8.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\target.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\target.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\tw.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\tw.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\user.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\user2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\user2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\video.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\video.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\web-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\web-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\web.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\web.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\white-check.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\white-check.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\icon\\wifi.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\wifi.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\logo\\footer-logo-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\footer-logo-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\logo\\footer-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\footer-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\fb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\fb.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\instra.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\instra.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\ln.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\ln.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\twiiter.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\twiiter.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\w-i.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\w-i.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\w-ins.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\w-ins.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\wfb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\wfb.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\wt.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\wt.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\social\\youtube.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\social\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\admin.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\admin.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\big-mail.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\big-mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\calender.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\calender.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\calender2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\calender2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\call.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\call.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\check.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\circle-c.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\circle-c.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\circle-clock.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\circle-clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\clock.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\clock2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\clock2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\comments.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\comments.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\file.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\file.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\file2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\file2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\light.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\light.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\line-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\line-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\mail-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\mail-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\mail.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\map.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\map.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\mini-heart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\mini-heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\mini-shape.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\mini-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\mini-target.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\mini-target.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\ok.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\ok.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\play.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\play.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\q.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\q.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\rating-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\rating-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\rating-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\rating-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\rating-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\rating-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\rating-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\rating-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\rating-5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\rating-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\reply.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\reply.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\review.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\review.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\target.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\target.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\user2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\user2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\images\\svg\\user3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\svg\\user3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\rt-plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\rt-plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\rt-plugins.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\rt-plugins.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\assets\\js\\tippy-bundle.umd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tippy-bundle.umd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SURFACE\\source\\repos\\Edumim\\Edumim\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Edumim.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Edumim.props",
+      "PackagePath": "build\\Edumim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Edumim.props",
+      "PackagePath": "buildMultiTargeting\\Edumim.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Edumim.props",
+      "PackagePath": "buildTransitive\\Edumim.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
